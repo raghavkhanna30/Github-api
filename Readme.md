@@ -4,7 +4,7 @@
 > Made with the help of internet :p
 
 
-[Check me out..! ](https://pages.github.com/)
+[Check me out..! ](https://github-repository-fetch.netlify.app/)
 
 ## Contributing
 
