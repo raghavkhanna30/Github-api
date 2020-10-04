@@ -49,6 +49,8 @@ function requestUserRepos(username){
                 <p><strong>Repo:</strong> ${data[i].name}</p>
                 <p><strong>Description:</strong> ${data[i].description}</p>
                 <p><strong>URL:</strong> <a href="${data[i].html_url}">${data[i].html_url}</a></p>
+                <p><strong>Created at:</strong> ${data[i].created_at}</p>
+                <p><strong>Stars :</strong> ${data[i].stargazers_count}</p>
             `);
             
             ul.appendChild(li);
